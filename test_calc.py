@@ -1,4 +1,3 @@
-
 import calc
 
 def test_average():
